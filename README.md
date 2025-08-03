@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/<!-- marayil's user ID will be automatically used by GitHub, so we use the username -->marayil?v=4" width="150" alt="marayil's avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/marayil?v=4" width="150" alt="marayil's avatar"/>
 </p>
 
 <h1 align="center">Hi there 👋👋</h1>
